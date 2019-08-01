@@ -30,7 +30,7 @@ class Uniborg(TelegramClient):
         self._plugin_path = plugin_path
 
         kwargs = {
-            "api_id": 6, "api_hash": "eb06d4abfb49dc3eeb1aeb98ae0f581e",
+            "api_id": "6952537", "api_hash": "4006e25b02a19ea6b562e3d9fc9896a0",
             **kwargs}
         super().__init__(session, **kwargs)
 
